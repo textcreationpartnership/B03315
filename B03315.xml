@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of those laws commanded by the Queen's most excellent Majesty, to be put in speedy execution by her Majesty's most gracious and pious letter (lately sent to the justices of the peace of the county of Middlesex) met at their general quarter-sessions by adjournment, Friday, the 10th of July, 1691. Published for the ease and direction of the several and respective officers in the performance of their duty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03315</idno>
+            <idno type="STC">Wing E871</idno>
+            <idno type="STC">ESTC R236481</idno>
+            <idno type="EEBO-CITATION">51617674</idno>
+            <idno type="OCLC">ocm 51617674</idno>
+            <idno type="VID">175211</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175211)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2722:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of those laws commanded by the Queen's most excellent Majesty, to be put in speedy execution by her Majesty's most gracious and pious letter (lately sent to the justices of the peace of the county of Middlesex) met at their general quarter-sessions by adjournment, Friday, the 10th of July, 1691. Published for the ease and direction of the several and respective officers in the performance of their duty.</title>
+                  <author>England and Wales. Laws, etc.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Braddyll,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A table listing various offenses, the laws and statutes which govern them, and their respective penalties.</note>
+                  <note>Imperfect: torn and tightly bound, with some loss of text.</note>
+                  <note>Reproduction of the original in the Lincoln's Inn Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Great Britain --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table">
+            <pb facs="tcp:175211:1"/>
+            <head>
+               <hi>ABSTRACT</hi> of thoſe <hi>LAWS</hi> Commanded by the <hi>QUEEN</hi>'s moſt Excellent <hi>MAJESTY,</hi> to be put in ſpeedy Execution by Her <hi>MAJESTY</hi>'s moſt Gracious and Pious <hi>Letter</hi> (lately ſet to the <hi>Juſtices</hi> of the <hi>Peace</hi> of the County of <hi>Middleſex</hi>) met at their General Quarter-Seſſions by Adjournme<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, <hi>Friday</hi> the <hi>10th</hi> of <hi>July, 1691.</hi> Publiſhed for the Eaſe and Direction of the ſeveral and reſpective Officers in the Per<g ref="char:EOLhyphen"/>formance of their Duty.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>OFFENCES.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>LAWS</hi> and <hi>STAT<g ref="char:V">Ʋ</g>TES.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>PENALTIES.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Prophanation of the Lord's Day.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>ALL Laws in force concerning the Obſervation of the Lord's Day, ſhall be put in execution: This day is by every one, to be ſancti<g ref="char:EOLhyphen"/>fied and kept holy; and all Per<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſt be careful herein to exerciſe them<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap> in the Duties of Piety, and true Re<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="8 letters">
+                           <desc>〈8 letters〉</desc>
+                        </gap> publickly; and every one on this day <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ving a reaſonable Excuſe) muſt dili<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="6 letters">
+                           <desc>••••••</desc>
+                        </gap> reſort to ſome publick place where <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>vice of God is exerciſed, or muſt be <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> at ſome other place (allow'd of by <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the Practice of ſome Religious Du<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>er of Prayer, Preaching, Reading, <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ounding of the Scriptures, or Con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> upon the ſame, and alſo privately,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.<lb/> 1 <hi>Will.</hi> &amp; <hi>M.</hi>
+                        <lb/> 1 <hi>Eliz. Cap.</hi> 2. 3 <hi>Jac. Cap.</hi> 4.</cell>
+                     <cell>
+                        <hi>NOTE,</hi> that Their Majeſties Pro<g ref="char:EOLhyphen"/>teſtant Subjects diſſenting from the Church of <hi>England,</hi> and qualified according to the late Statute of Indulgence, are ex<g ref="char:EOLhyphen"/>empted from the Penalties of the Statutes 3 <hi>Jac.</hi> 1 <hi>Eliz.</hi> 23. <hi>Eliz.</hi> 29. <hi>Eliz. and ſome other Statutes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> as repare not to Church, <hi>&amp;c.</hi> on <hi>Sun<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap> 
+                           <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Holy-days.</hi>
+                        <lb/> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e Witneſs.</cell>
+                     <cell>1 <hi>Eliz.</hi> 23 <hi>Eliz.</hi> 3 <hi>Jac. Cap.</hi> 1. 19 <hi>Eliz. Cap.</hi> 1.</cell>
+                     <cell>Twelve Pence for every default, to be le<g ref="char:EOLhyphen"/>vied by diſtreſs, and for want of diſtreſs, to be committed to ſome Priſon, until the ſame be paid.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ting for a Month, <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>welve Month, or more,</cell>
+                     <cell>3 <hi>Jac. Cap.</hi> 4.</cell>
+                     <cell>Twenty Pounds <hi>per</hi> Month, and forfeiture of Two parts in Three of their Eſtates.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> come not to the Sacrament of the <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>upper once a Year,</cell>
+                     <cell> </cell>
+                     <cell>Their Names and Sirnames to be preſent<g ref="char:EOLhyphen"/>ed: Forty Shillings reward to ſuch as pre<g ref="char:EOLhyphen"/>ſent them.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> ſhall ſpeak or do any thing in Con<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the moſt Holy Sacrament,</cell>
+                     <cell>1 <hi>Ed.</hi> 6. <hi>Cap.</hi> 1.</cell>
+                     <cell>By Oath of Two lawful Witneſſes, by Three Juſtices <hi>Quorum un.</hi> to be bound o<g ref="char:EOLhyphen"/>ver and proſecuted in Seſſions.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>oever ſhall diſturb any Preacher al<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> his open Sermon or Collation, or <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ng or abetting thereunto, or ſhall <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> any Offender, <hi>&amp;c.</hi>
+                        <lb/> 
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>ion muſt be by Two Witneſſes, or <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>,</cell>
+                     <cell>1 <hi>M. Cap.</hi> 3.</cell>
+                     <cell>To be committed by any Juſtice of the County to ſafe Cuſtody, and within ſix days the ſaid committing Juſtice, with one other Juſtice (if the Offender upon examination ſhall be found Guilty) ſhall commit him to Goal without Bail, <hi>&amp;c.</hi> for Three Months, and farther to the next Quarter Seſſions.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> meet or aſſemble out of their <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>riſh upon the Lord's Day, for any <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>orts or Paſtimes whatſoever, or ſuch as <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> uſe any unlawful Exerciſe or Paſtime in <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> own Pariſh upon the Lord's Day,</cell>
+                     <cell>1 <hi>Car. Cap.</hi> 1. 3 <hi>Cr. Cap.</hi> 4.</cell>
+                     <cell>Three Shillings and four Pence to the Poor, where <hi>&amp;c.</hi> to be levied by diſtreſs and ſale, reſtoring the Overplus, <hi>&amp;c.</hi> and for want of diſtreſs, to be ſent to the Stocks for Three Hours, but they muſt be queſtioned within a Month.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Carrier, Waggoner, <hi>&amp;c.</hi> with <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Horſe, Wain or Cart, or Drover with Cat<g ref="char:EOLhyphen"/>tle ſhall travel upon the Lord's Day by them<g ref="char:EOLhyphen"/>ſelves, or any other for them,</cell>
+                     <cell>3 <hi>Car. Cap.</hi> 1.</cell>
+                     <cell>Twenty Sh<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>llings for every offence, to be levied by diſtreſs and <gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of the Poor.</cell>
+                  </row>
+                  <row>
+                     <cell>If an<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Butcher, or any other for him, ſhall kill or ſell any Victuals upon the <hi>Sunday,</hi> One Witneſs, View or Confeſſion.</cell>
+                     <cell>3 <hi>Car. Cap.</hi> 1.</cell>
+                     <cell>He ſhall forfeit ſix Shillings and eight Pence, if queſtioned within ſix Months, to be levied, <hi>&amp;c.</hi> or may be ſued for in Seſſi<g ref="char:EOLhyphen"/>ons, <hi>&amp;c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>If any Shoe-maker ſhall go with intent to <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ell any Boots, Shoes, <hi>&amp;c.</hi> on the <hi>Sunday.</hi>
+                     </cell>
+                     <cell>1 <hi>Jac. Cap.</hi> 22.</cell>
+                     <cell>He ſhall forfeit ſuch Goods, and Three Shillings and four Pence for every Pair.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Perſon of the Age of 14 ſhall on the Lord's Day, or any part thereof, do any worldly Labour, <hi>&amp;c.</hi> except Works of Ne<g ref="char:EOLhyphen"/>ceſſity and Charity,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>He ſhall forfeit Five Shillings for every offence.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Perſon ſhall cry, ſhew forth, or put to ſale any Wares, Fruit, Goods, <hi>&amp;c.</hi> except Milk only, before the Hours of Nine in the Morning, and after Four in the Afternoon,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>He ſhall forfeit the ſaid Wares, Fruit, Goods, <hi>&amp;c.</hi> to the Uſe of the Poor.</cell>
+                  </row>
+                  <row>
+                     <cell>No Drover, Horſe-courſer, Waggoner, Butcher, Higler, or any of their Servants, <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>all travel or come to their Inns on the <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ord's Day,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>The Forfeit is Twenty Shillings for every offence.</cell>
+                  </row>
+                  <row>
+                     <cell>No Perſon ſhall uſe or travel upon the <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ord's Day with any Horſe, Boat, Wher<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, <hi>&amp;c.</hi> except allow'd by one Juſtice of <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eace ſo to do,<lb/> By View, Confeſſion, or one Witneſs.<lb/> This Act ex<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ends not to dreſſing of Meat in Cooks-Sho<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, Inns or Victualling-houſes,</cell>
+                     <cell>29 <hi>Car.</hi> 2. <hi>Cap.</hi> 7.</cell>
+                     <cell>The Forfeiture is Five Shillings for every offence: The Conviction upon this Statute, muſt be before any Juſtice of the County, <hi>&amp;c.</hi> who ſhall give warrant to the Conſtables, <hi>&amp;c.</hi> to ſeize the Goods ſhewed, <hi>&amp;c.</hi> and to levy the Forfeitures by diſtreſs, <hi>&amp;c.</hi> and for want of diſtreſs. to put the Offender in the Stocks for Two Hours: The Juſtices <hi>&amp;c.</hi> may re<g ref="char:EOLhyphen"/>ward the Informer out of the Forfeitures, not exceeding the third part.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Drunken<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſs,</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">If any <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e convicted for being Drunk, by One Witneſs or View.</cell>
+                     <cell rows="3">4 <hi>Jac. Cap.</hi> 5. 21<lb/> 
+                        <hi>Jac. Cap.</hi> 7.</cell>
+                     <cell>Every Perſon muſt be impeached upon this Act, within Ten Days after the Offence.</cell>
+                  </row>
+                  <row>
+                     <cell>The Offender for the firſt, to pay Five Shil<g ref="char:EOLhyphen"/>lings to the Church-Wardens, where, <hi>&amp;c.</hi> with<g ref="char:EOLhyphen"/>in one Week after Conviction, or elſe to be levied by diſtreſs and ſale, and for want of diſtreſs to ſit in the Stocks ſix Hours.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Ale-<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ouſe-keeper be convicted of <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>unkenneſs, <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e is diſabled for Three Years <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> keep any Al<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>houſe,<lb/> This Convic<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>n of Drunkenneſs, muſt be <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>thin ſix Mon<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s after the Offence com<g ref="char:EOLunhyphen"/>
+                        <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ted,</cell>
+                     <cell>For the ſecond Offence, muſt be bound in Ten Pounds with Two Sureties to the good Behaviour, and for want of Sureties to be ſent to the Goal.<lb/> If the Conſtable levy not the Forfeitures, he forfeits Ten Shillings to the Poor, <hi>ut Supra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Inn-keepers, Ale-houſe-keepers, or Victu<g ref="char:EOLhyphen"/>allers, ſuffer any of the ſame Pariſh to con<g ref="char:EOLhyphen"/>tinue tipling in their Houſes,<lb/> One Witneſs or View.</cell>
+                     <cell>1 <hi>Jac. Cap.</hi> 9.<lb/> 21 <hi>Jac. Cap.</hi> 7.</cell>
+                     <cell>Ten Shillings to be levied by diſtreſs and ſale after ſix days, and for want of diſtreſs, to be committed till payment, and diſabled for Three Years from keeping any Ale-houſe, <hi>&amp;c.</hi>
+                        <lb/> If the Conſtable or Church-Warden do not levy the Penalty, or ſhall not certify the want of diſtreſs within Twenty Days, he forfeits Forty Shillings to be levied by di<g ref="char:EOLhyphen"/>ſtreſs and ſale, <hi>ut ſupra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>If any Inn-keeper, Ale-houſe-keeper, Victualler, or Taverner, ſuffer any Perſon (whereſoever his Habitation be) to continue tipling in his Houſe,<lb/> Two Witneſſes or View.</cell>
+                     <cell>1 <hi>Jac. Cap.</hi> 4.<lb/> 21 <hi>Jac. Cap.</hi> 7.<lb/> 1 <hi>Car. Cap.</hi> 4.</cell>
+                     <cell>Twenty Shillings to be levied by diſtreſs, and for want of ſatisfaction in ſix days to be ſold, reſtoring the Overplus, and for want of diſtreſs, to be committed till payment.</cell>
+                  </row>
+                  <row>
+                     <cell>Townſmen, or others which ſhall remain tipling in any Inn, Ale-houſe or Victualling-Houſe,<lb/> One Witneſs or View.</cell>
+                     <cell>4 <hi>Jac. Cap.</hi> 5.<lb/> 21 <hi>Jac. Cap.</hi> 7.</cell>
+                     <cell>Three Shillings and Four Pence to be levied by diſtreſs after one Weeks neglect of pay<g ref="char:EOLhyphen"/>ment, or to ſit in the Stocks four Hours.<lb/> The Conſtable for his neglect, forfeits Ten Shillings, <hi>ut ſupra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Theſe Statutes do prohibit all quaffing and drinking of Healths, ſuch Houſes being ſolely appointed for the Accommodation of Travellers, and for the Relief of the Poor,</cell>
+                     <cell>1 <hi>Car. Cap.</hi> 4.<lb/> 21 <hi>Jac. Cap.</hi> 7.</cell>
+                     <cell>Every ſuch Taverner, and which ſhall ſuf<g ref="char:EOLhyphen"/>fer any Perſon whatſoever to tipple in his Houſe contrary to the ſaid Statutes, ſhall be adjudged within the Statute 1 <hi>Jac. cap.</hi> 9.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Swearing and Curſing.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>If any Perſon ſhall prophane, ſwear or curſe in the Hearing of a Juſtice of Peace, Mayor, <hi>&amp;c.</hi> or be convicted of ſuch ſwear<g ref="char:EOLunhyphen"/>ing by Two Witneſſes, or confeſſion of the Party.</cell>
+                     <cell rows="2">21 <hi>Jac. Cap.</hi> 20.<lb/> 3 <hi>Car. Cap.</hi> 4.<lb/> 17 <hi>Car. Cap.</hi> 4.</cell>
+                     <cell rows="2">He ſhall forfeit for every ſuch offence to the Uſe of the Poor, one Shilling; every Ju<g ref="char:EOLhyphen"/>ſtice, Head-Officer, <hi>&amp;c.</hi> may command the Conſtables, <hi>&amp;c.</hi> to levy the ſame by diſtreſs; and for want of diſtreſs, the Offender being above the Age of Twelve Years, ſhall be ſet in the Stocks Three Hours; if under Twelve Years old, and ſhall not pay the ſaid Twelve Pence, he ſhall be whipp'd by the Conſtable, by warrant of the Juſtice, or by the Parent or M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſter, in the Preſence of the Conſtable.</cell>
+                  </row>
+                  <row>
+                     <cell>Every Offence againſt this Act, muſt be proved within 20 days after the Offence committed.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>Lewd and diſorderly Practices.</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>Keeping of Baudy-houſes, <hi>&amp;c.</hi> is againſt the Law of God, on which our common Law in this Caſe is grounded: Therefore, the Keeper of Houſes of Baudery and Inconti<g ref="char:EOLhyphen"/>nence</cell>
+                     <cell>
+                        <hi>Cok.</hi> 3. <hi>Inſtit.</hi>
+                        <lb/> 11 <hi>Hen.</hi> 6. <hi>Cap.</hi> 1.<lb/> 1 <hi>Hen.</hi> 7. <hi>Cap.</hi> 6.</cell>
+                     <cell>Are to be puniſhed, being a common Nu<g ref="char:EOLhyphen"/>ſance by Indictment at Common Law by Fine and Impriſonment.</cell>
+                  </row>
+                  <row>
+                     <cell>Reſorters and frequenters of Baudy-houſes</cell>
+                     <cell>13 <hi>Hen.</hi> 7. <hi>Cap.</hi> 6.</cell>
+                     <cell>To be bound with Sureties to the Good Behaviour.</cell>
+                  </row>
+                  <row>
+                     <cell>Adultery, <hi>&amp;c.</hi> and all Acts of Baudery are B<gap reason="illegible" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>es of the Peace,</cell>
+                     <cell> 27 <hi>Hen.</hi> 8. <hi>Cap. <gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>For which an Indictment will lie.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a Conſtable, <hi>&amp;c.</hi> has notice that a Wo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> is in Adultery, <hi>&amp;c.</hi> with a Man, or that a Man and Woman of evil fame are gone to a <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſpected Houſe,</cell>
+                     <cell>
+                        <hi>Cok.</hi> 3. <hi>Inſtit.</hi>
+                        <lb/> 
+                        <hi>Dalt. Cap.</hi> 35.</cell>
+                     <cell>He may take help with him, and if he find them ſo, he may carry them to Priſon, or to a Juſtice to be bound over and pro<g ref="char:EOLhyphen"/>ſecuted.</cell>
+                  </row>
+                  <row>
+                     <cell>Strangers or others that are ſuſpicious th<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t walk by night, eſpecially if they haunt lewd Houſes, or keep lewd Company, or commit Outrages,</cell>
+                     <cell>13 <hi>Hen.</hi> 7. <hi>Cap.</hi> 10.</cell>
+                     <cell>To find ſufficient Sureties for the Good Behaviour.</cell>
+                  </row>
+                  <row>
+                     <cell>Idlers that refuſe to work, and diſorderly Perſons,</cell>
+                     <cell>7 <hi>Jac. Cap.</hi> 4.<lb/> 39 <hi>Eliz. Cap.</hi> 4.</cell>
+                     <cell>To be committed to the Houſe of Cor<g ref="char:EOLhyphen"/>rection.</cell>
+                  </row>
+                  <row>
+                     <cell>Wandring Rogues, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>43 <hi>Eliz. Cap.</hi> 2.</cell>
+                     <cell>To be whipp'd and ſent to the Place of Birth.</cell>
+                  </row>
+                  <row>
+                     <cell>If the Conſtable puniſh them not,</cell>
+                     <cell> 4 <hi>Hen.</hi> 7. <hi>Cap.</hi> 12.</cell>
+                     <cell>He forfeits Ten Shillings to be levied by a Warrant from Two Juſtices.</cell>
+                  </row>
+                  <row>
+                     <cell>Such as ſhall not apprehend Rogues, <hi>&amp;c.</hi> being at their doors,<lb/> Two Witneſſes or Confeſſion.</cell>
+                     <cell> 39 <hi>Eliz. Cap.</hi> 4.<lb/> 1 <hi>Jac. Cap.</hi> 7.</cell>
+                     <cell>Ten Shillings to be levied, <hi>ut ſupra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Every Conſtable who does not puniſh ſuch as are brought to him,</cell>
+                     <cell> </cell>
+                     <cell>Twenty Shillings to be levied, <hi>ut ſupra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Such as diſturb the Puniſhment of Rogues, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>39 <hi>Eliz. Cap.</hi> 4.</cell>
+                     <cell>Five Pounds to be levied by Diſtreſs, and bound to the Good Behaviour by Two Ju<g ref="char:EOLhyphen"/>ſtices, <hi>Quorum un.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Officers remiſs in puniſhing of Rogues, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>Ten Pounds to be levied by diſtreſs and ſale, <hi>ut ſuprae.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Such as run away, and leave their Charge upon the Pariſh,</cell>
+                     <cell>7 <hi>Jac. Cap.</hi> 4.</cell>
+                     <cell>To be puniſhed as Rogues, <hi>&amp;c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Such as threaten to run away,<lb/> Two Witneſſes.</cell>
+                     <cell> </cell>
+                     <cell>To be ſent to <hi>Bridewell,</hi> or give ſecurity to diſcharge the Pariſh.</cell>
+                  </row>
+                  <row>
+                     <cell>If any Woman ſhall have a Baſtard Child, which may be chargeable to the Pariſh,</cell>
+                     <cell>7 <hi>Jac. Cap.</hi> 4.</cell>
+                     <cell>
+                        <hi>Bridewell</hi> for one Year, to be ſent by Two Juſtices, and bound not to offend ſo again.</cell>
+                  </row>
+                  <row>
+                     <cell>Keepers of Play-houſes, and unlawful Games,<lb/> Upon View.</cell>
+                     <cell>33 <hi>Hen.</hi> 8. <hi>Cap.</hi> 9.</cell>
+                     <cell>Forty Shillings and Impriſonment, until he be come bound by Recognizance to keep no more.</cell>
+                  </row>
+                  <row>
+                     <cell>Such as play in ſuch Houſes,<lb/> Upon View.</cell>
+                     <cell> </cell>
+                     <cell>Impriſonment until he be bound to play no more, and to pay ſix Shillings and eight Pence, to be recovered in Quarter-Seſſions.</cell>
+                  </row>
+                  <row>
+                     <cell>Such as out of <hi>Chriſtmas</hi> ſhall play at un<g ref="char:EOLhyphen"/>lawful Games any where.</cell>
+                     <cell>31 <hi>Eliz. Cap.</hi> 5.</cell>
+                     <cell>Impriſonment and bound to the King to play no more, Twenty Shillings by Indict<g ref="char:EOLhyphen"/>ment in Quarter-Seſſions.</cell>
+                  </row>
+                  <row>
+                     <cell>All Licenſes to keep Houſes, or Places of unlawful Games, ſhall be void.</cell>
+                     <cell>2.3 <hi>Ph.</hi> &amp; <hi>M. Cap.</hi> 9.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Braddyll,</hi> MDCXCI.</p>
+            <pb facs="tcp:175211:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
